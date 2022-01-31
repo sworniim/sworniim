@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sworniim
-- 👀 I’m interested in developing mobile applicaions
+- 👀 I’m interested in developing mobile app
 - 🌱 I’m currently learning Flutter
 
 <!---
